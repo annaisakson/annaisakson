@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @annaisakson
+- 👀 I’m interested in gaming and cute dogs
+- 🌱 I’m currently learning Javascript
+- ⚡ Fun fact: I have a dog named Ben
